@@ -18,7 +18,7 @@ else if (size == "s") {
     console.log(`size is ${size} and price is 50`);
 }
 else {
-    console.log("inalid size Re Enter the Size again  ");
+    console.log("invalid size Re Enter the Size again  ");
     checkPrice();
 }
 }
